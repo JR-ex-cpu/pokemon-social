@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Pokémon Social",
+      "hasCanvas": false,
+      "bodyTextLen": 4400,
+      "bodyTextHash": "dd752e90d2c5e10e6347f8c5bb302c7bf5c3c073b62c1f62f3d51498c8037dfc",
+      "bodyTextPrefix": "PS PROTOTIPO Pokémon Social Enviar video Registrarme Idioma de U",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Pokémon Social",
+      "hasCanvas": false,
+      "bodyTextLen": 4400,
+      "bodyTextHash": "dd752e90d2c5e10e6347f8c5bb302c7bf5c3c073b62c1f62f3d51498c8037dfc",
+      "bodyTextPrefix": "PS PROTOTIPO Pokémon Social Enviar video Registrarme Idioma de U",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
